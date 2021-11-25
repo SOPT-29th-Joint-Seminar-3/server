@@ -1,3 +1,4 @@
 module.exports = { 
-    likeDB : require('./like')
+    likeDB : require('./like'),
+    playlistDB : require('./playlist')
 }
